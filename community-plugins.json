@@ -74310,5 +74310,12 @@
     "author": "Factdock",
     "description": "Search primary sources on any country's web in your own language, and save each result with its source into your notes. Requires a paid Factdock account. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "factdock/factdock-obsidian"
+  },
+  {
+    "id": "screenplay-md",
+    "name": "Screenplay MD",
+    "author": "qing和天阙",
+    "description": "Screenplay writing workflow for Markdown notes: Tab cycles line types, screenplay layout, import/export.",
+    "repo": "ASDFGHJKL524/obsidian-screenplay-md"
   }
 ]
